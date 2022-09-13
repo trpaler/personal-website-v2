@@ -1,1 +1,0 @@
-export const GITHUB_HEADER_MARGIN_TOP = 60;
